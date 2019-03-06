@@ -1,7 +1,7 @@
 {
 	"name": "Sample Block",
 	"description": "A Sample Salesforce Marketing Cloud Content Builder Custom Block",
-	"repository": "https://github.com/tbesluau/sampleblock",
-	"logo": "https://github.com/tbesluau/sampleblock/blob/master/dist/icon.png?raw=true",
+	"repository": "https://github.com/dautpure/salesforcewt2019ams",
+	"logo": "http://image.S7.exacttarget.com/lib/fe8e1373776c077577/m/1/b319cb5f-12da-4588-a297-e2676a498951.png?raw=true",
 	"keywords": ["node", "express", "static", "content builder", "block", "blocksdk"]
 }
