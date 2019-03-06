@@ -16,7 +16,7 @@ One click deployment to heroku:
 
 ```bash
 # do not fork
-git clone https://github.com/tbesluau/sampleblock.git <my block name e.g. myblock>
+git clone https://github.com/dautpure/salesforcewt2019ams.git <my block name e.g. myblock>
 cd <my block name e.g. mybock>
 # create your own empty github repository for your new block and copy the clone url for it
 git remote set-url origin <your empty repo url>
