@@ -70,7 +70,7 @@
 __webpack_require__(1);
 
 var SDK = __webpack_require__(19);
-var sdk = new SDK();
+var sdk = new SDK(null, null, true);
 
 var ImageURL,Font1,Font1Size,Font1Color,textinputBtmLft,textinputBtmrgt,textinputTopLft,textinputTopRgt,textinputCenter;
 
